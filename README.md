@@ -2,6 +2,12 @@
 
 Simple Solidity shop: the owner lists fruit, buyers pay native ETH on Base.
 
+## Deployed
+
+Base mainnet: `0x419B93Fd505911D0B26623934F4bFeCb604174af`
+
+https://base.blockscout.com/address/0x419B93Fd505911D0B26623934F4bFeCb604174af
+
 ## Networks
 
 | Network | Chain ID | RPC |
