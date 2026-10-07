@@ -1,0 +1,8 @@
+# Solidity
+out/
+cache/
+broadcast/
+
+# Env
+.env
+*.log
